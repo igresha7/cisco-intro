@@ -1,8 +1,8 @@
-## [Задание 1](7.4.2%20Lab%20-%20Implement%20DHCPv4.docx): Настроить DHCPv4.
+## [Задание 1](https://github.com/lupus23ua/otus-neteng/blob/main/labs/04%20DHCP/7.4.2%20Lab%20-%20Implement%20DHCPv4.docx): Настроить DHCPv4.
 
 ### Топология в EVE-NG:
 
-![](topology.png)
+![](https://github.com/lupus23ua/otus-neteng/blob/main/labs/04%20DHCP/topology.png)
 
 ### Таблица ip-адресов:
 |Device|Interface|IP Address|Subnet Mask|Default Gateway|
@@ -29,12 +29,12 @@
 |1000|Native|N/A|
 
 ### show running-config со всех сетевых устройств после выполнения всех заданий
-[R1#sh run](R1%20sh%20run.ios)  
-[R2#sh run](R2%20sh%20run.ios)  
-[S1#sh run](S1%20sh%20run.ios)  
-[S2#sh run](S2%20sh%20run.ios)
+[R1#sh run](https://github.com/lupus23ua/otus-neteng/blob/main/labs/04%20DHCP/R1%20sh%20run.ios)  
+[R2#sh run](https://github.com/lupus23ua/otus-neteng/blob/main/labs/04%20DHCP/R2%20sh%20run.ios)  
+[S1#sh run](https://github.com/lupus23ua/otus-neteng/blob/main/labs/04%20DHCP/S1%20sh%20run.ios)  
+[S2#sh run](https://github.com/lupus23ua/otus-neteng/blob/main/labs/04%20DHCP/S2%20sh%20run.ios)
 ### Экспорт стенда в EVE-NG
-[04 DHCP](_Exports_eve-ng_export-20220405-025146.zip)
+[04 DHCP](https://github.com/lupus23ua/otus-neteng/blob/main/labs/04%20DHCP/_Exports_eve-ng_export-20220405-025146.zip)
 
 ## Часть 1: Создание сети и настройка основных параметров устройства
 
